@@ -15,7 +15,6 @@ This is a simple React application that allows manual and automatic counting wit
 * React
 * Vite
 * Tailwind CSS
-* 
 ## Usage
 
 * Use buttons to increment or decrement manually
